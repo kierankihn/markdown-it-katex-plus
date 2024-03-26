@@ -1,5 +1,5 @@
 {
-    "name": "@iktakahiro/markdown-it-katex",
+    "name": "@kierankihn/markdown-it-katex",
     "version": "4.0.2",
     "description": "Fast math support for markdown-it with KaTeX",
     "main": "index.js",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com:iktakahiro/markdown-it-katex.git"
+        "url": "git+ssh://git@github.com:kierankihn/markdown-it-katex.git"
     },
     "keywords": [
         "markdown",
